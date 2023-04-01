@@ -8,5 +8,19 @@ font-family: 'Poppins', sans-serif;
 */
 
 html, body {
-  
+  font-family: 'DM Sans', serif;
+}
+
+.container {
+  padding: 0 15px;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+/* Nav */
+
+.nav {
+  padding: 20px 0;
+  border-bottom: 1px solid #000;
+  background-color: #171718;
+  color: #fff;
 }
