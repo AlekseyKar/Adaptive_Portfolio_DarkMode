@@ -33,11 +33,11 @@
   display: flex;
   justify-content: space-between;
 
-  width: 51px;
-  height: 26px;
-  padding: 5px;
+  width: 3.188rem;
+  height: 1.625rem;
+  padding: .313rem;
 
-  border-radius: 50px;
+  border-radius: 3.125rem;
   background-color: #272727;
 }
 
@@ -45,12 +45,12 @@
   content: "";
 
   position: absolute;
-  top: 1px;
-  left: 1px;
+  top: .063rem;
+  left: .063rem;
 
   display: block;
-  width: 24px;
-  height: 24px;
+  width: 1.5rem;
+  height: 1.5rem;
 
   border-radius: 50%;
   background-color: var(--white);
@@ -59,7 +59,7 @@
 }
 
 .dark-mode-btn--active::before {
-  left: 26px;
+  left: 1.625rem;
 }
 
 .dark-mode-btn__icon {
