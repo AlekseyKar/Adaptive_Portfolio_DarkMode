@@ -1,29 +1,3 @@
-/* Light mode */
-
-:root {
-   --page-bg: var(--white);
-   --text-color: var(--black);
- 
-   --title-1: var(--accent);
- 
-   --project-card-bg: var(--white);
-   --project-card-text: var(--black);
-   --box-shadow: 0rem .313rem 2.188rem rgba(0, 0, 0, 0.25);
-}
-
-/* dark mode */
-
-.dark {
-  --page-bg: #252526;
-  --text-color: var(--white);
-
-  --title-1: var(--white);
-
-  --project-card-bg: var(--black);
-  --project-card-text: var(--white);
-  --box-shadow: 0rem .313rem 2.188rem rgba(0, 0, 0, 0.8);
-}
-
 /* Dark mode btn */
 
 .dark-mode-btn {
